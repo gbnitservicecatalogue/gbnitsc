@@ -52,3 +52,5 @@ gbnews_network_project/
 │       ├── it-development.html
 │       ├── it-improvement.html
 │       └── it-production.html
+
+#This project sur le compt: gbnitservicecatalogue@gmail.com
