@@ -1,44 +1,62 @@
 {
     "Inventory": [
         {
-            "name": "roborock-vacuum-a97",
-            "ip": "192.168.1.12",
-            "status": "Online",
-            "last_seen": "2025-07-27 01:53:08"
-        },
-        {
-            "name": "salt.box",
+            "name": "router.asus.com",
             "ip": "192.168.1.1",
             "status": "Online",
-            "last_seen": "2025-07-27 01:53:08"
+            "last_seen": "2025-08-12 15:57:05"
         },
         {
-            "name": "diaaalhariri-ubuntu",
-            "ip": "192.168.1.30",
+            "name": "MBP-de-Admin-6",
+            "ip": "192.168.1.27",
             "status": "Online",
-            "last_seen": "2025-07-27 01:53:08"
-        },
-        {
-            "name": "TechLife-629b",
-            "ip": "192.168.1.22",
-            "status": "Online",
-            "last_seen": "2025-07-27 01:53:08"
-        },
-        {
-            "name": "Chambre",
-            "ip": "192.168.1.6",
-            "status": "Online",
-            "last_seen": "2025-07-27 01:53:08"
-        },
-        {
-            "name": "iPhone",
-            "ip": "192.168.1.7",
-            "status": "Online",
-            "last_seen": "2025-07-27 01:53:08"
+            "last_seen": "2025-08-12 15:57:05"
         },
         {
             "name": "Unknown",
+            "ip": "192.168.1.24",
+            "status": "Online",
+            "last_seen": "2025-08-12 15:57:05"
+        },
+        {
+            "name": "L37E-flp",
+            "ip": "192.168.1.5",
+            "status": "Offline",
+            "last_seen": null
+        },
+        {
+            "name": "Unknown",
+            "ip": "192.168.1.2",
+            "status": "Offline",
+            "last_seen": null
+        },
+        {
+            "name": "Air-de-Nakouty",
             "ip": "192.168.1.4",
+            "status": "Offline",
+            "last_seen": null
+        },
+        {
+            "name": "Unknown",
+            "ip": "192.168.1.3",
+            "status": "Offline",
+            "last_seen": null
+        },
+        {
+            "name": "Unknown",
+            "ip": "192.168.1.7",
+            "status": "Offline",
+            "last_seen": null
+        },
+        {
+            "name": "Unknown",
+            "ip": "192.168.1.11",
+            "status": "Offline",
+            "last_seen": null
+        },
+        {
+            "name": "Unknown",
+            "ip": "192.168.1.6",
             "status": "Offline",
             "last_seen": null
         },
@@ -50,31 +68,37 @@
         },
         {
             "name": "Unknown",
-            "ip": "192.168.1.11",
+            "ip": "192.168.1.9",
             "status": "Offline",
             "last_seen": null
         },
         {
-            "name": "Samsung",
+            "name": "Unknown",
+            "ip": "192.168.1.10",
+            "status": "Offline",
+            "last_seen": null
+        },
+        {
+            "name": "Unknown",
             "ip": "192.168.1.13",
             "status": "Offline",
             "last_seen": null
         },
         {
-            "name": "26:aa:23:02:17:84",
+            "name": "Unknown",
             "ip": "192.168.1.14",
             "status": "Offline",
             "last_seen": null
         },
         {
             "name": "Unknown",
-            "ip": "192.168.1.3",
+            "ip": "192.168.1.16",
             "status": "Offline",
             "last_seen": null
         },
         {
-            "name": "lwip0",
-            "ip": "192.168.1.10",
+            "name": "Unknown",
+            "ip": "192.168.1.12",
             "status": "Offline",
             "last_seen": null
         },
@@ -86,31 +110,19 @@
         },
         {
             "name": "Unknown",
-            "ip": "192.168.1.5",
+            "ip": "192.168.1.18",
             "status": "Offline",
             "last_seen": null
         },
         {
             "name": "Unknown",
-            "ip": "192.168.1.9",
+            "ip": "192.168.1.17",
             "status": "Offline",
             "last_seen": null
         },
         {
             "name": "Unknown",
-            "ip": "192.168.1.2",
-            "status": "Offline",
-            "last_seen": null
-        },
-        {
-            "name": "lwip0",
-            "ip": "192.168.1.16",
-            "status": "Offline",
-            "last_seen": null
-        },
-        {
-            "name": "lwip0",
-            "ip": "192.168.1.20",
+            "ip": "192.168.1.19",
             "status": "Offline",
             "last_seen": null
         },
@@ -121,32 +133,44 @@
             "last_seen": null
         },
         {
-            "name": "lwip0",
-            "ip": "192.168.1.17",
+            "name": "Unknown",
+            "ip": "192.168.1.22",
             "status": "Offline",
             "last_seen": null
         },
         {
-            "name": "Tala-s-S10",
-            "ip": "192.168.1.19",
-            "status": "Offline",
-            "last_seen": null
-        },
-        {
-            "name": "lwip0",
-            "ip": "192.168.1.18",
+            "name": "Air-de-Roger",
+            "ip": "192.168.1.23",
             "status": "Offline",
             "last_seen": null
         },
         {
             "name": "Unknown",
-            "ip": "192.168.1.29",
+            "ip": "192.168.1.20",
             "status": "Offline",
             "last_seen": null
         },
         {
-            "name": "lwip0",
+            "name": "Unknown",
+            "ip": "192.168.1.25",
+            "status": "Offline",
+            "last_seen": null
+        },
+        {
+            "name": "Unknown",
             "ip": "192.168.1.28",
+            "status": "Offline",
+            "last_seen": null
+        },
+        {
+            "name": "Unknown",
+            "ip": "192.168.1.26",
+            "status": "Offline",
+            "last_seen": null
+        },
+        {
+            "name": "Unknown",
+            "ip": "192.168.1.30",
             "status": "Offline",
             "last_seen": null
         },
@@ -157,32 +181,20 @@
             "last_seen": null
         },
         {
-            "name": "lwip0",
-            "ip": "192.168.1.25",
+            "name": "Unknown",
+            "ip": "192.168.1.33",
             "status": "Offline",
             "last_seen": null
         },
         {
-            "name": "lwip0",
-            "ip": "192.168.1.24",
-            "status": "Offline",
-            "last_seen": null
-        },
-        {
-            "name": "lwip0",
-            "ip": "192.168.1.26",
-            "status": "Offline",
-            "last_seen": null
-        },
-        {
-            "name": "lwip0",
-            "ip": "192.168.1.27",
-            "status": "Offline",
-            "last_seen": null
-        },
-        {
-            "name": "iPhone",
+            "name": "Yuna",
             "ip": "192.168.1.32",
+            "status": "Offline",
+            "last_seen": null
+        },
+        {
+            "name": "Unknown",
+            "ip": "192.168.1.29",
             "status": "Offline",
             "last_seen": null
         },
@@ -194,31 +206,7 @@
         },
         {
             "name": "Unknown",
-            "ip": "192.168.1.41",
-            "status": "Offline",
-            "last_seen": null
-        },
-        {
-            "name": "Unknown",
-            "ip": "192.168.1.35",
-            "status": "Offline",
-            "last_seen": null
-        },
-        {
-            "name": "iPhone",
-            "ip": "192.168.1.33",
-            "status": "Offline",
-            "last_seen": null
-        },
-        {
-            "name": "Unknown",
-            "ip": "192.168.1.38",
-            "status": "Offline",
-            "last_seen": null
-        },
-        {
-            "name": "48:78:5e:54:05:c8",
-            "ip": "192.168.1.23",
+            "ip": "192.168.1.34",
             "status": "Offline",
             "last_seen": null
         },
@@ -229,8 +217,14 @@
             "last_seen": null
         },
         {
-            "name": "98:03:cf:23:50:d3",
-            "ip": "192.168.1.34",
+            "name": "Unknown",
+            "ip": "192.168.1.35",
+            "status": "Offline",
+            "last_seen": null
+        },
+        {
+            "name": "Unknown",
+            "ip": "192.168.1.38",
             "status": "Offline",
             "last_seen": null
         },
@@ -241,20 +235,26 @@
             "last_seen": null
         },
         {
-            "name": "e8:6e:3a:ea:c4:0b",
+            "name": "Unknown",
+            "ip": "192.168.1.41",
+            "status": "Offline",
+            "last_seen": null
+        },
+        {
+            "name": "Unknown",
             "ip": "192.168.1.40",
             "status": "Offline",
             "last_seen": null
         },
         {
             "name": "Unknown",
-            "ip": "192.168.1.42",
+            "ip": "192.168.1.43",
             "status": "Offline",
             "last_seen": null
         },
         {
             "name": "Unknown",
-            "ip": "192.168.1.46",
+            "ip": "192.168.1.42",
             "status": "Offline",
             "last_seen": null
         },
@@ -272,31 +272,13 @@
         },
         {
             "name": "Unknown",
-            "ip": "192.168.1.43",
-            "status": "Offline",
-            "last_seen": null
-        },
-        {
-            "name": "Unknown",
-            "ip": "192.168.1.53",
-            "status": "Offline",
-            "last_seen": null
-        },
-        {
-            "name": "Unknown",
-            "ip": "192.168.1.50",
+            "ip": "192.168.1.47",
             "status": "Offline",
             "last_seen": null
         },
         {
             "name": "Unknown",
             "ip": "192.168.1.51",
-            "status": "Offline",
-            "last_seen": null
-        },
-        {
-            "name": "iPhone",
-            "ip": "192.168.1.52",
             "status": "Offline",
             "last_seen": null
         },
@@ -308,7 +290,7 @@
         },
         {
             "name": "Unknown",
-            "ip": "192.168.1.47",
+            "ip": "192.168.1.46",
             "status": "Offline",
             "last_seen": null
         },
@@ -320,9 +302,39 @@
         },
         {
             "name": "Unknown",
-            "ip": "192.168.1.55",
+            "ip": "192.168.1.50",
             "status": "Offline",
             "last_seen": null
+        },
+        {
+            "name": "Unknown",
+            "ip": "192.168.1.52",
+            "status": "Offline",
+            "last_seen": null
+        },
+        {
+            "name": "Unknown",
+            "ip": "192.168.1.53",
+            "status": "Offline",
+            "last_seen": null
+        },
+        {
+            "name": "MacBook-Air",
+            "ip": "192.168.1.71",
+            "status": "Online",
+            "last_seen": "2025-08-12 15:57:06"
+        },
+        {
+            "name": "MacBookAir",
+            "ip": "192.168.1.69",
+            "status": "Online",
+            "last_seen": "2025-08-12 15:57:06"
+        },
+        {
+            "name": "Unknown",
+            "ip": "192.168.1.102",
+            "status": "Online",
+            "last_seen": "2025-08-12 15:57:06"
         },
         {
             "name": "Unknown",
@@ -331,44 +343,8 @@
             "last_seen": null
         },
         {
-            "name": "iPhone",
-            "ip": "192.168.1.85",
-            "status": "Online",
-            "last_seen": "2025-07-27 01:53:09"
-        },
-        {
-            "name": "Unknown",
+            "name": "Galaxy-S21-5G",
             "ip": "192.168.1.56",
-            "status": "Offline",
-            "last_seen": null
-        },
-        {
-            "name": "S10-de-Tamer",
-            "ip": "192.168.1.86",
-            "status": "Online",
-            "last_seen": "2025-07-27 01:53:09"
-        },
-        {
-            "name": "iPad",
-            "ip": "192.168.1.65",
-            "status": "Offline",
-            "last_seen": null
-        },
-        {
-            "name": "Unknown",
-            "ip": "192.168.1.61",
-            "status": "Offline",
-            "last_seen": null
-        },
-        {
-            "name": "Unknown",
-            "ip": "192.168.1.58",
-            "status": "Offline",
-            "last_seen": null
-        },
-        {
-            "name": "Unknown",
-            "ip": "192.168.1.62",
             "status": "Offline",
             "last_seen": null
         },
@@ -380,13 +356,43 @@
         },
         {
             "name": "Unknown",
-            "ip": "192.168.1.59",
+            "ip": "192.168.1.55",
             "status": "Offline",
             "last_seen": null
         },
         {
             "name": "Unknown",
-            "ip": "192.168.1.64",
+            "ip": "192.168.1.58",
+            "status": "Offline",
+            "last_seen": null
+        },
+        {
+            "name": "Unknown",
+            "ip": "192.168.1.63",
+            "status": "Offline",
+            "last_seen": null
+        },
+        {
+            "name": "Unknown",
+            "ip": "192.168.1.59",
+            "status": "Offline",
+            "last_seen": null
+        },
+        {
+            "name": "LAPTOP-M18GLQ47",
+            "ip": "192.168.1.62",
+            "status": "Offline",
+            "last_seen": null
+        },
+        {
+            "name": "Unknown",
+            "ip": "192.168.1.61",
+            "status": "Offline",
+            "last_seen": null
+        },
+        {
+            "name": "Unknown",
+            "ip": "192.168.1.66",
             "status": "Offline",
             "last_seen": null
         },
@@ -398,73 +404,55 @@
         },
         {
             "name": "Unknown",
-            "ip": "192.168.1.66",
-            "status": "Offline",
-            "last_seen": null
-        },
-        {
-            "name": "iPhone-Taim",
-            "ip": "192.168.1.68",
+            "ip": "192.168.1.65",
             "status": "Offline",
             "last_seen": null
         },
         {
             "name": "Unknown",
-            "ip": "192.168.1.63",
+            "ip": "192.168.1.64",
             "status": "Offline",
             "last_seen": null
         },
         {
-            "name": "A2:E6:BE:7F:73:58",
-            "ip": "192.168.1.69",
-            "status": "Offline",
-            "last_seen": null
-        },
-        {
-            "name": "OPPO-A16s",
-            "ip": "192.168.1.70",
-            "status": "Offline",
-            "last_seen": null
-        },
-        {
-            "name": "66:14:C6:67:8F:BD",
-            "ip": "192.168.1.73",
-            "status": "Offline",
-            "last_seen": null
-        },
-        {
-            "name": "26:fe:e4:a3:6a:32",
+            "name": "Unknown",
             "ip": "192.168.1.67",
             "status": "Offline",
             "last_seen": null
         },
         {
             "name": "Unknown",
-            "ip": "192.168.1.71",
+            "ip": "192.168.1.70",
             "status": "Offline",
             "last_seen": null
         },
         {
-            "name": "iPhone",
+            "name": "Unknown",
+            "ip": "192.168.1.68",
+            "status": "Offline",
+            "last_seen": null
+        },
+        {
+            "name": "Unknown",
+            "ip": "192.168.1.73",
+            "status": "Offline",
+            "last_seen": null
+        },
+        {
+            "name": "Unknown",
+            "ip": "192.168.1.75",
+            "status": "Offline",
+            "last_seen": null
+        },
+        {
+            "name": "Unknown",
             "ip": "192.168.1.72",
             "status": "Offline",
             "last_seen": null
         },
         {
-            "name": "DA:BC:90:20:DC:EE",
+            "name": "Unknown",
             "ip": "192.168.1.74",
-            "status": "Offline",
-            "last_seen": null
-        },
-        {
-            "name": "32:34:71:E5:35:08",
-            "ip": "192.168.1.78",
-            "status": "Offline",
-            "last_seen": null
-        },
-        {
-            "name": "b4:61:e9:49:6c:d8",
-            "ip": "192.168.1.75",
             "status": "Offline",
             "last_seen": null
         },
@@ -476,12 +464,12 @@
         },
         {
             "name": "Unknown",
-            "ip": "192.168.1.77",
+            "ip": "192.168.1.78",
             "status": "Offline",
             "last_seen": null
         },
         {
-            "name": "Galaxy-Z-Fold4",
+            "name": "Unknown",
             "ip": "192.168.1.79",
             "status": "Offline",
             "last_seen": null
@@ -493,56 +481,80 @@
             "last_seen": null
         },
         {
-            "name": "62:DB:2F:1C:A4:39",
-            "ip": "192.168.1.81",
-            "status": "Offline",
-            "last_seen": null
-        },
-        {
-            "name": "D6:C5:0F:8D:18:36",
-            "ip": "192.168.1.87",
-            "status": "Offline",
-            "last_seen": null
-        },
-        {
-            "name": "02:16:c8:82:6b:16",
-            "ip": "192.168.1.89",
-            "status": "Offline",
-            "last_seen": null
-        },
-        {
-            "name": "46:D3:00:04:14:E9",
-            "ip": "192.168.1.83",
-            "status": "Offline",
-            "last_seen": null
-        },
-        {
-            "name": "2A:34:96:6F:3F:9A",
+            "name": "Unknown",
             "ip": "192.168.1.82",
             "status": "Offline",
             "last_seen": null
         },
         {
-            "name": "iPhone",
+            "name": "Unknown",
+            "ip": "192.168.1.81",
+            "status": "Offline",
+            "last_seen": null
+        },
+        {
+            "name": "Unknown",
+            "ip": "192.168.1.77",
+            "status": "Offline",
+            "last_seen": null
+        },
+        {
+            "name": "Unknown",
+            "ip": "192.168.1.83",
+            "status": "Offline",
+            "last_seen": null
+        },
+        {
+            "name": "Unknown",
             "ip": "192.168.1.84",
             "status": "Offline",
             "last_seen": null
         },
         {
-            "name": "12:63:4D:CB:E6:80",
-            "ip": "192.168.1.90",
+            "name": "Unknown",
+            "ip": "192.168.1.85",
             "status": "Offline",
             "last_seen": null
         },
         {
-            "name": "26:22:43:60:1F:AD",
+            "name": "Unknown",
+            "ip": "192.168.1.87",
+            "status": "Offline",
+            "last_seen": null
+        },
+        {
+            "name": "P14sGen5",
             "ip": "192.168.1.91",
             "status": "Offline",
             "last_seen": null
         },
         {
-            "name": "iPad",
+            "name": "Unknown",
+            "ip": "192.168.1.86",
+            "status": "Offline",
+            "last_seen": null
+        },
+        {
+            "name": "Unknown",
             "ip": "192.168.1.88",
+            "status": "Offline",
+            "last_seen": null
+        },
+        {
+            "name": "Unknown",
+            "ip": "192.168.1.90",
+            "status": "Offline",
+            "last_seen": null
+        },
+        {
+            "name": "Unknown",
+            "ip": "192.168.1.92",
+            "status": "Offline",
+            "last_seen": null
+        },
+        {
+            "name": "Unknown",
+            "ip": "192.168.1.89",
             "status": "Offline",
             "last_seen": null
         },
@@ -554,19 +566,31 @@
         },
         {
             "name": "Unknown",
-            "ip": "192.168.1.95",
-            "status": "Offline",
-            "last_seen": null
-        },
-        {
-            "name": "Unknown",
             "ip": "192.168.1.94",
             "status": "Offline",
             "last_seen": null
         },
         {
-            "name": "02:31:23:D9:48:01",
-            "ip": "192.168.1.92",
+            "name": "MacBookdeNoemie",
+            "ip": "192.168.1.119",
+            "status": "Online",
+            "last_seen": "2025-08-12 15:57:07"
+        },
+        {
+            "name": "Unknown",
+            "ip": "192.168.1.95",
+            "status": "Offline",
+            "last_seen": null
+        },
+        {
+            "name": "MacBookharlotte",
+            "ip": "192.168.1.113",
+            "status": "Online",
+            "last_seen": "2025-08-12 15:57:07"
+        },
+        {
+            "name": "Unknown",
+            "ip": "192.168.1.97",
             "status": "Offline",
             "last_seen": null
         },
@@ -584,19 +608,7 @@
         },
         {
             "name": "Unknown",
-            "ip": "192.168.1.97",
-            "status": "Offline",
-            "last_seen": null
-        },
-        {
-            "name": "Unknown",
-            "ip": "192.168.1.99",
-            "status": "Offline",
-            "last_seen": null
-        },
-        {
-            "name": "Unknown",
-            "ip": "192.168.1.102",
+            "ip": "192.168.1.101",
             "status": "Offline",
             "last_seen": null
         },
@@ -608,7 +620,7 @@
         },
         {
             "name": "Unknown",
-            "ip": "192.168.1.101",
+            "ip": "192.168.1.99",
             "status": "Offline",
             "last_seen": null
         },
@@ -632,9 +644,21 @@
         },
         {
             "name": "Unknown",
+            "ip": "192.168.1.147",
+            "status": "Online",
+            "last_seen": "2025-08-12 15:57:07"
+        },
+        {
+            "name": "Unknown",
             "ip": "192.168.1.106",
             "status": "Offline",
             "last_seen": null
+        },
+        {
+            "name": "OnePlus-13",
+            "ip": "192.168.1.132",
+            "status": "Online",
+            "last_seen": "2025-08-12 15:57:07"
         },
         {
             "name": "Unknown",
@@ -645,12 +669,6 @@
         {
             "name": "Unknown",
             "ip": "192.168.1.108",
-            "status": "Offline",
-            "last_seen": null
-        },
-        {
-            "name": "Unknown",
-            "ip": "192.168.1.111",
             "status": "Offline",
             "last_seen": null
         },
@@ -668,13 +686,7 @@
         },
         {
             "name": "Unknown",
-            "ip": "192.168.1.113",
-            "status": "Offline",
-            "last_seen": null
-        },
-        {
-            "name": "Unknown",
-            "ip": "192.168.1.116",
+            "ip": "192.168.1.111",
             "status": "Offline",
             "last_seen": null
         },
@@ -698,37 +710,13 @@
         },
         {
             "name": "Unknown",
-            "ip": "192.168.1.118",
-            "status": "Offline",
-            "last_seen": null
-        },
-        {
-            "name": "Unknown",
             "ip": "192.168.1.117",
             "status": "Offline",
             "last_seen": null
         },
         {
             "name": "Unknown",
-            "ip": "192.168.1.122",
-            "status": "Offline",
-            "last_seen": null
-        },
-        {
-            "name": "Unknown",
-            "ip": "192.168.1.123",
-            "status": "Offline",
-            "last_seen": null
-        },
-        {
-            "name": "Unknown",
-            "ip": "192.168.1.119",
-            "status": "Offline",
-            "last_seen": null
-        },
-        {
-            "name": "Unknown",
-            "ip": "192.168.1.124",
+            "ip": "192.168.1.116",
             "status": "Offline",
             "last_seen": null
         },
@@ -740,7 +728,31 @@
         },
         {
             "name": "Unknown",
+            "ip": "192.168.1.118",
+            "status": "Offline",
+            "last_seen": null
+        },
+        {
+            "name": "iPhone",
+            "ip": "192.168.1.122",
+            "status": "Offline",
+            "last_seen": null
+        },
+        {
+            "name": "Mac",
             "ip": "192.168.1.121",
+            "status": "Offline",
+            "last_seen": null
+        },
+        {
+            "name": "Unknown",
+            "ip": "192.168.1.123",
+            "status": "Offline",
+            "last_seen": null
+        },
+        {
+            "name": "Unknown",
+            "ip": "192.168.1.124",
             "status": "Offline",
             "last_seen": null
         },
@@ -758,25 +770,7 @@
         },
         {
             "name": "Unknown",
-            "ip": "192.168.1.133",
-            "status": "Offline",
-            "last_seen": null
-        },
-        {
-            "name": "Unknown",
-            "ip": "192.168.1.131",
-            "status": "Offline",
-            "last_seen": null
-        },
-        {
-            "name": "Unknown",
-            "ip": "192.168.1.132",
-            "status": "Offline",
-            "last_seen": null
-        },
-        {
-            "name": "Unknown",
-            "ip": "192.168.1.128",
+            "ip": "192.168.1.127",
             "status": "Offline",
             "last_seen": null
         },
@@ -794,7 +788,13 @@
         },
         {
             "name": "Unknown",
-            "ip": "192.168.1.127",
+            "ip": "192.168.1.128",
+            "status": "Offline",
+            "last_seen": null
+        },
+        {
+            "name": "Unknown",
+            "ip": "192.168.1.133",
             "status": "Offline",
             "last_seen": null
         },
@@ -806,13 +806,19 @@
         },
         {
             "name": "Unknown",
+            "ip": "192.168.1.131",
+            "status": "Offline",
+            "last_seen": null
+        },
+        {
+            "name": "Unknown",
             "ip": "192.168.1.136",
             "status": "Offline",
             "last_seen": null
         },
         {
             "name": "Unknown",
-            "ip": "192.168.1.139",
+            "ip": "192.168.1.137",
             "status": "Offline",
             "last_seen": null
         },
@@ -830,13 +836,7 @@
         },
         {
             "name": "Unknown",
-            "ip": "192.168.1.137",
-            "status": "Offline",
-            "last_seen": null
-        },
-        {
-            "name": "Unknown",
-            "ip": "192.168.1.140",
+            "ip": "192.168.1.139",
             "status": "Offline",
             "last_seen": null
         },
@@ -848,13 +848,13 @@
         },
         {
             "name": "Unknown",
-            "ip": "192.168.1.143",
+            "ip": "192.168.1.140",
             "status": "Offline",
             "last_seen": null
         },
         {
             "name": "Unknown",
-            "ip": "192.168.1.144",
+            "ip": "192.168.1.143",
             "status": "Offline",
             "last_seen": null
         },
@@ -866,25 +866,13 @@
         },
         {
             "name": "Unknown",
+            "ip": "192.168.1.144",
+            "status": "Offline",
+            "last_seen": null
+        },
+        {
+            "name": "Unknown",
             "ip": "192.168.1.145",
-            "status": "Offline",
-            "last_seen": null
-        },
-        {
-            "name": "Unknown",
-            "ip": "192.168.1.149",
-            "status": "Offline",
-            "last_seen": null
-        },
-        {
-            "name": "Unknown",
-            "ip": "192.168.1.150",
-            "status": "Offline",
-            "last_seen": null
-        },
-        {
-            "name": "Unknown",
-            "ip": "192.168.1.147",
             "status": "Offline",
             "last_seen": null
         },
@@ -896,13 +884,19 @@
         },
         {
             "name": "Unknown",
+            "ip": "192.168.1.167",
+            "status": "Online",
+            "last_seen": "2025-08-12 15:57:08"
+        },
+        {
+            "name": "RafaelDC",
             "ip": "192.168.1.148",
             "status": "Offline",
             "last_seen": null
         },
         {
             "name": "Unknown",
-            "ip": "192.168.1.152",
+            "ip": "192.168.1.149",
             "status": "Offline",
             "last_seen": null
         },
@@ -914,7 +908,25 @@
         },
         {
             "name": "Unknown",
+            "ip": "192.168.1.154",
+            "status": "Offline",
+            "last_seen": null
+        },
+        {
+            "name": "Unknown",
+            "ip": "192.168.1.150",
+            "status": "Offline",
+            "last_seen": null
+        },
+        {
+            "name": "Unknown",
             "ip": "192.168.1.151",
+            "status": "Offline",
+            "last_seen": null
+        },
+        {
+            "name": "Unknown",
+            "ip": "192.168.1.152",
             "status": "Offline",
             "last_seen": null
         },
@@ -926,19 +938,13 @@
         },
         {
             "name": "Unknown",
-            "ip": "192.168.1.154",
+            "ip": "192.168.1.157",
             "status": "Offline",
             "last_seen": null
         },
         {
             "name": "Unknown",
             "ip": "192.168.1.156",
-            "status": "Offline",
-            "last_seen": null
-        },
-        {
-            "name": "Unknown",
-            "ip": "192.168.1.157",
             "status": "Offline",
             "last_seen": null
         },
@@ -962,7 +968,7 @@
         },
         {
             "name": "Unknown",
-            "ip": "192.168.1.165",
+            "ip": "192.168.1.162",
             "status": "Offline",
             "last_seen": null
         },
@@ -974,31 +980,19 @@
         },
         {
             "name": "Unknown",
-            "ip": "192.168.1.164",
-            "status": "Offline",
-            "last_seen": null
-        },
-        {
-            "name": "Unknown",
-            "ip": "192.168.1.162",
-            "status": "Offline",
-            "last_seen": null
-        },
-        {
-            "name": "Unknown",
             "ip": "192.168.1.163",
             "status": "Offline",
             "last_seen": null
         },
         {
             "name": "Unknown",
-            "ip": "192.168.1.169",
+            "ip": "192.168.1.165",
             "status": "Offline",
             "last_seen": null
         },
         {
             "name": "Unknown",
-            "ip": "192.168.1.170",
+            "ip": "192.168.1.164",
             "status": "Offline",
             "last_seen": null
         },
@@ -1010,13 +1004,13 @@
         },
         {
             "name": "Unknown",
-            "ip": "192.168.1.166",
+            "ip": "192.168.1.169",
             "status": "Offline",
             "last_seen": null
         },
         {
             "name": "Unknown",
-            "ip": "192.168.1.167",
+            "ip": "192.168.1.166",
             "status": "Offline",
             "last_seen": null
         },
@@ -1028,19 +1022,7 @@
         },
         {
             "name": "Unknown",
-            "ip": "192.168.1.174",
-            "status": "Offline",
-            "last_seen": null
-        },
-        {
-            "name": "Unknown",
-            "ip": "192.168.1.172",
-            "status": "Offline",
-            "last_seen": null
-        },
-        {
-            "name": "Unknown",
-            "ip": "192.168.1.177",
+            "ip": "192.168.1.170",
             "status": "Offline",
             "last_seen": null
         },
@@ -1052,91 +1034,13 @@
         },
         {
             "name": "Unknown",
-            "ip": "192.168.1.183",
+            "ip": "192.168.1.172",
             "status": "Offline",
             "last_seen": null
         },
         {
             "name": "Unknown",
-            "ip": "192.168.1.184",
-            "status": "Offline",
-            "last_seen": null
-        },
-        {
-            "name": "Unknown",
-            "ip": "192.168.1.178",
-            "status": "Offline",
-            "last_seen": null
-        },
-        {
-            "name": "Unknown",
-            "ip": "192.168.1.179",
-            "status": "Offline",
-            "last_seen": null
-        },
-        {
-            "name": "Unknown",
-            "ip": "192.168.1.191",
-            "status": "Offline",
-            "last_seen": null
-        },
-        {
-            "name": "Unknown",
-            "ip": "192.168.1.189",
-            "status": "Offline",
-            "last_seen": null
-        },
-        {
-            "name": "Unknown",
-            "ip": "192.168.1.182",
-            "status": "Offline",
-            "last_seen": null
-        },
-        {
-            "name": "Unknown",
-            "ip": "192.168.1.181",
-            "status": "Offline",
-            "last_seen": null
-        },
-        {
-            "name": "Unknown",
-            "ip": "192.168.1.185",
-            "status": "Offline",
-            "last_seen": null
-        },
-        {
-            "name": "Unknown",
-            "ip": "192.168.1.176",
-            "status": "Offline",
-            "last_seen": null
-        },
-        {
-            "name": "Unknown",
-            "ip": "192.168.1.190",
-            "status": "Offline",
-            "last_seen": null
-        },
-        {
-            "name": "Unknown",
-            "ip": "192.168.1.188",
-            "status": "Offline",
-            "last_seen": null
-        },
-        {
-            "name": "Unknown",
-            "ip": "192.168.1.186",
-            "status": "Offline",
-            "last_seen": null
-        },
-        {
-            "name": "Unknown",
-            "ip": "192.168.1.192",
-            "status": "Offline",
-            "last_seen": null
-        },
-        {
-            "name": "Unknown",
-            "ip": "192.168.1.194",
+            "ip": "192.168.1.174",
             "status": "Offline",
             "last_seen": null
         },
@@ -1148,37 +1052,19 @@
         },
         {
             "name": "Unknown",
-            "ip": "192.168.1.195",
+            "ip": "192.168.1.179",
             "status": "Offline",
             "last_seen": null
         },
         {
             "name": "Unknown",
-            "ip": "192.168.1.193",
+            "ip": "192.168.1.177",
             "status": "Offline",
             "last_seen": null
         },
         {
             "name": "Unknown",
-            "ip": "192.168.1.187",
-            "status": "Offline",
-            "last_seen": null
-        },
-        {
-            "name": "Unknown",
-            "ip": "192.168.1.196",
-            "status": "Offline",
-            "last_seen": null
-        },
-        {
-            "name": "Unknown",
-            "ip": "192.168.1.199",
-            "status": "Offline",
-            "last_seen": null
-        },
-        {
-            "name": "Unknown",
-            "ip": "192.168.1.201",
+            "ip": "192.168.1.176",
             "status": "Offline",
             "last_seen": null
         },
@@ -1190,7 +1076,103 @@
         },
         {
             "name": "Unknown",
-            "ip": "192.168.1.203",
+            "ip": "192.168.1.178",
+            "status": "Offline",
+            "last_seen": null
+        },
+        {
+            "name": "Unknown",
+            "ip": "192.168.1.181",
+            "status": "Offline",
+            "last_seen": null
+        },
+        {
+            "name": "Unknown",
+            "ip": "192.168.1.182",
+            "status": "Offline",
+            "last_seen": null
+        },
+        {
+            "name": "Unknown",
+            "ip": "192.168.1.185",
+            "status": "Offline",
+            "last_seen": null
+        },
+        {
+            "name": "Unknown",
+            "ip": "192.168.1.186",
+            "status": "Offline",
+            "last_seen": null
+        },
+        {
+            "name": "Unknown",
+            "ip": "192.168.1.184",
+            "status": "Offline",
+            "last_seen": null
+        },
+        {
+            "name": "Unknown",
+            "ip": "192.168.1.183",
+            "status": "Offline",
+            "last_seen": null
+        },
+        {
+            "name": "diaaalhariri-ubuntu",
+            "ip": "192.168.1.229",
+            "status": "Online",
+            "last_seen": "2025-08-12 15:57:09"
+        },
+        {
+            "name": "Unknown",
+            "ip": "192.168.1.187",
+            "status": "Offline",
+            "last_seen": null
+        },
+        {
+            "name": "MiguelMoraisS22",
+            "ip": "192.168.1.188",
+            "status": "Offline",
+            "last_seen": null
+        },
+        {
+            "name": "Unknown",
+            "ip": "192.168.1.190",
+            "status": "Offline",
+            "last_seen": null
+        },
+        {
+            "name": "Unknown",
+            "ip": "192.168.1.189",
+            "status": "Offline",
+            "last_seen": null
+        },
+        {
+            "name": "Unknown",
+            "ip": "192.168.1.191",
+            "status": "Offline",
+            "last_seen": null
+        },
+        {
+            "name": "Unknown",
+            "ip": "192.168.1.192",
+            "status": "Offline",
+            "last_seen": null
+        },
+        {
+            "name": "Unknown",
+            "ip": "192.168.1.193",
+            "status": "Offline",
+            "last_seen": null
+        },
+        {
+            "name": "Unknown",
+            "ip": "192.168.1.194",
+            "status": "Offline",
+            "last_seen": null
+        },
+        {
+            "name": "Unknown",
+            "ip": "192.168.1.195",
             "status": "Offline",
             "last_seen": null
         },
@@ -1202,13 +1184,13 @@
         },
         {
             "name": "Unknown",
-            "ip": "192.168.1.197",
+            "ip": "192.168.1.199",
             "status": "Offline",
             "last_seen": null
         },
         {
             "name": "Unknown",
-            "ip": "192.168.1.200",
+            "ip": "192.168.1.196",
             "status": "Offline",
             "last_seen": null
         },
@@ -1220,7 +1202,25 @@
         },
         {
             "name": "Unknown",
+            "ip": "192.168.1.197",
+            "status": "Offline",
+            "last_seen": null
+        },
+        {
+            "name": "Unknown",
             "ip": "192.168.1.204",
+            "status": "Offline",
+            "last_seen": null
+        },
+        {
+            "name": "Unknown",
+            "ip": "192.168.1.203",
+            "status": "Offline",
+            "last_seen": null
+        },
+        {
+            "name": "Unknown",
+            "ip": "192.168.1.200",
             "status": "Offline",
             "last_seen": null
         },
@@ -1232,7 +1232,19 @@
         },
         {
             "name": "Unknown",
-            "ip": "192.168.1.207",
+            "ip": "192.168.1.201",
+            "status": "Offline",
+            "last_seen": null
+        },
+        {
+            "name": "Unknown",
+            "ip": "192.168.1.232",
+            "status": "Online",
+            "last_seen": "2025-08-12 15:57:09"
+        },
+        {
+            "name": "Unknown",
+            "ip": "192.168.1.208",
             "status": "Offline",
             "last_seen": null
         },
@@ -1244,121 +1256,13 @@
         },
         {
             "name": "Unknown",
-            "ip": "192.168.1.208",
+            "ip": "192.168.1.207",
             "status": "Offline",
             "last_seen": null
         },
         {
-            "name": "Unknown",
+            "name": "SW-GE-4E-GBPOR03",
             "ip": "192.168.1.209",
-            "status": "Offline",
-            "last_seen": null
-        },
-        {
-            "name": "Unknown",
-            "ip": "192.168.1.210",
-            "status": "Offline",
-            "last_seen": null
-        },
-        {
-            "name": "Unknown",
-            "ip": "192.168.1.216",
-            "status": "Offline",
-            "last_seen": null
-        },
-        {
-            "name": "Unknown",
-            "ip": "192.168.1.247",
-            "status": "Offline",
-            "last_seen": null
-        },
-        {
-            "name": "Unknown",
-            "ip": "192.168.1.246",
-            "status": "Offline",
-            "last_seen": null
-        },
-        {
-            "name": "Unknown",
-            "ip": "192.168.1.230",
-            "status": "Offline",
-            "last_seen": null
-        },
-        {
-            "name": "Unknown",
-            "ip": "192.168.1.232",
-            "status": "Offline",
-            "last_seen": null
-        },
-        {
-            "name": "Unknown",
-            "ip": "192.168.1.242",
-            "status": "Offline",
-            "last_seen": null
-        },
-        {
-            "name": "Unknown",
-            "ip": "192.168.1.239",
-            "status": "Offline",
-            "last_seen": null
-        },
-        {
-            "name": "Unknown",
-            "ip": "192.168.1.233",
-            "status": "Offline",
-            "last_seen": null
-        },
-        {
-            "name": "Unknown",
-            "ip": "192.168.1.235",
-            "status": "Offline",
-            "last_seen": null
-        },
-        {
-            "name": "Unknown",
-            "ip": "192.168.1.234",
-            "status": "Offline",
-            "last_seen": null
-        },
-        {
-            "name": "Unknown",
-            "ip": "192.168.1.225",
-            "status": "Offline",
-            "last_seen": null
-        },
-        {
-            "name": "Unknown",
-            "ip": "192.168.1.238",
-            "status": "Offline",
-            "last_seen": null
-        },
-        {
-            "name": "Unknown",
-            "ip": "192.168.1.219",
-            "status": "Offline",
-            "last_seen": null
-        },
-        {
-            "name": "Unknown",
-            "ip": "192.168.1.237",
-            "status": "Offline",
-            "last_seen": null
-        },
-        {
-            "name": "Unknown",
-            "ip": "192.168.1.214",
-            "status": "Offline",
-            "last_seen": null
-        },
-        {
-            "name": "Unknown",
-            "ip": "192.168.1.224",
-            "status": "Offline",
-            "last_seen": null
-        },
-        {
-            "name": "Unknown",
-            "ip": "192.168.1.241",
             "status": "Offline",
             "last_seen": null
         },
@@ -1370,13 +1274,37 @@
         },
         {
             "name": "Unknown",
-            "ip": "192.168.1.215",
+            "ip": "192.168.1.210",
             "status": "Offline",
             "last_seen": null
         },
         {
             "name": "Unknown",
-            "ip": "192.168.1.243",
+            "ip": "192.168.1.213",
+            "status": "Offline",
+            "last_seen": null
+        },
+        {
+            "name": "MBP-de-Maman",
+            "ip": "192.168.1.212",
+            "status": "Offline",
+            "last_seen": null
+        },
+        {
+            "name": "Unknown",
+            "ip": "192.168.1.216",
+            "status": "Offline",
+            "last_seen": null
+        },
+        {
+            "name": "Unknown",
+            "ip": "192.168.1.214",
+            "status": "Offline",
+            "last_seen": null
+        },
+        {
+            "name": "Unknown",
+            "ip": "192.168.1.215",
             "status": "Offline",
             "last_seen": null
         },
@@ -1387,20 +1315,104 @@
             "last_seen": null
         },
         {
-            "name": "Unknown",
-            "ip": "192.168.1.250",
+            "name": "Pixel-8a",
+            "ip": "192.168.1.217",
             "status": "Offline",
             "last_seen": null
         },
         {
             "name": "Unknown",
-            "ip": "192.168.1.212",
+            "ip": "192.168.1.222",
             "status": "Offline",
             "last_seen": null
         },
         {
             "name": "Unknown",
-            "ip": "192.168.1.213",
+            "ip": "192.168.1.219",
+            "status": "Offline",
+            "last_seen": null
+        },
+        {
+            "name": "Unknown",
+            "ip": "192.168.1.223",
+            "status": "Offline",
+            "last_seen": null
+        },
+        {
+            "name": "Unknown",
+            "ip": "192.168.1.224",
+            "status": "Offline",
+            "last_seen": null
+        },
+        {
+            "name": "Unknown",
+            "ip": "192.168.1.220",
+            "status": "Offline",
+            "last_seen": null
+        },
+        {
+            "name": "Unknown",
+            "ip": "192.168.1.221",
+            "status": "Offline",
+            "last_seen": null
+        },
+        {
+            "name": "Unknown",
+            "ip": "192.168.1.228",
+            "status": "Offline",
+            "last_seen": null
+        },
+        {
+            "name": "DESKTOP-NBV9GV6",
+            "ip": "192.168.1.227",
+            "status": "Offline",
+            "last_seen": null
+        },
+        {
+            "name": "Unknown",
+            "ip": "192.168.1.225",
+            "status": "Offline",
+            "last_seen": null
+        },
+        {
+            "name": "Unknown",
+            "ip": "192.168.1.230",
+            "status": "Offline",
+            "last_seen": null
+        },
+        {
+            "name": "parrot",
+            "ip": "192.168.1.231",
+            "status": "Offline",
+            "last_seen": null
+        },
+        {
+            "name": "Unknown",
+            "ip": "192.168.1.233",
+            "status": "Offline",
+            "last_seen": null
+        },
+        {
+            "name": "Unknown",
+            "ip": "192.168.1.226",
+            "status": "Offline",
+            "last_seen": null
+        },
+        {
+            "name": "Unknown",
+            "ip": "192.168.1.235",
+            "status": "Offline",
+            "last_seen": null
+        },
+        {
+            "name": "Unknown",
+            "ip": "192.168.1.237",
+            "status": "Offline",
+            "last_seen": null
+        },
+        {
+            "name": "Unknown",
+            "ip": "192.168.1.234",
             "status": "Offline",
             "last_seen": null
         },
@@ -1412,13 +1424,85 @@
         },
         {
             "name": "Unknown",
+            "ip": "192.168.1.241",
+            "status": "Offline",
+            "last_seen": null
+        },
+        {
+            "name": "Unknown",
+            "ip": "192.168.1.239",
+            "status": "Offline",
+            "last_seen": null
+        },
+        {
+            "name": "Unknown",
+            "ip": "192.168.1.240",
+            "status": "Offline",
+            "last_seen": null
+        },
+        {
+            "name": "Unknown",
+            "ip": "192.168.1.238",
+            "status": "Offline",
+            "last_seen": null
+        },
+        {
+            "name": "Unknown",
+            "ip": "192.168.1.243",
+            "status": "Offline",
+            "last_seen": null
+        },
+        {
+            "name": "Unknown",
+            "ip": "192.168.1.242",
+            "status": "Offline",
+            "last_seen": null
+        },
+        {
+            "name": "Unknown",
+            "ip": "192.168.1.244",
+            "status": "Offline",
+            "last_seen": null
+        },
+        {
+            "name": "Unknown",
+            "ip": "192.168.1.245",
+            "status": "Offline",
+            "last_seen": null
+        },
+        {
+            "name": "Unknown",
+            "ip": "192.168.1.246",
+            "status": "Offline",
+            "last_seen": null
+        },
+        {
+            "name": "Unknown",
+            "ip": "192.168.1.247",
+            "status": "Offline",
+            "last_seen": null
+        },
+        {
+            "name": "Unknown",
             "ip": "192.168.1.248",
             "status": "Offline",
             "last_seen": null
         },
         {
             "name": "Unknown",
-            "ip": "192.168.1.221",
+            "ip": "192.168.1.251",
+            "status": "Offline",
+            "last_seen": null
+        },
+        {
+            "name": "Unknown",
+            "ip": "192.168.1.250",
+            "status": "Offline",
+            "last_seen": null
+        },
+        {
+            "name": "Unknown",
+            "ip": "192.168.1.249",
             "status": "Offline",
             "last_seen": null
         },
@@ -1431,90 +1515,6 @@
         {
             "name": "Unknown",
             "ip": "192.168.1.253",
-            "status": "Offline",
-            "last_seen": null
-        },
-        {
-            "name": "Unknown",
-            "ip": "192.168.1.228",
-            "status": "Offline",
-            "last_seen": null
-        },
-        {
-            "name": "Unknown",
-            "ip": "192.168.1.249",
-            "status": "Offline",
-            "last_seen": null
-        },
-        {
-            "name": "Unknown",
-            "ip": "192.168.1.223",
-            "status": "Offline",
-            "last_seen": null
-        },
-        {
-            "name": "Unknown",
-            "ip": "192.168.1.226",
-            "status": "Offline",
-            "last_seen": null
-        },
-        {
-            "name": "Unknown",
-            "ip": "192.168.1.251",
-            "status": "Offline",
-            "last_seen": null
-        },
-        {
-            "name": "Unknown",
-            "ip": "192.168.1.240",
-            "status": "Offline",
-            "last_seen": null
-        },
-        {
-            "name": "Unknown",
-            "ip": "192.168.1.245",
-            "status": "Offline",
-            "last_seen": null
-        },
-        {
-            "name": "Unknown",
-            "ip": "192.168.1.231",
-            "status": "Offline",
-            "last_seen": null
-        },
-        {
-            "name": "Unknown",
-            "ip": "192.168.1.227",
-            "status": "Offline",
-            "last_seen": null
-        },
-        {
-            "name": "Unknown",
-            "ip": "192.168.1.244",
-            "status": "Offline",
-            "last_seen": null
-        },
-        {
-            "name": "Unknown",
-            "ip": "192.168.1.222",
-            "status": "Offline",
-            "last_seen": null
-        },
-        {
-            "name": "Unknown",
-            "ip": "192.168.1.229",
-            "status": "Offline",
-            "last_seen": null
-        },
-        {
-            "name": "Unknown",
-            "ip": "192.168.1.217",
-            "status": "Offline",
-            "last_seen": null
-        },
-        {
-            "name": "Unknown",
-            "ip": "192.168.1.220",
             "status": "Offline",
             "last_seen": null
         },
